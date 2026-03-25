@@ -34,7 +34,8 @@ Breaking laws triggers search mode and de‑escalation;
 “Disrespect Mechanic” (Some actions can trigger notoriety);
 Non‑criminal actions (bumping, aiming, etc.) can trigger NPC reactions.
 
-**** <iframe width="560" height="315" src="https://www.youtube.com/embed/R8NCFrKhjos?si=eMb9zsLj93OZLXe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+DEMO: [![Video](https://img.youtube.com/vi/R8NCFrKhjos/0.jpg)](https://youtu.be/R8NCFrKhjos)
+
 
 📌 Cinematic Door Teleporter
 <img width="1900" height="400" alt="cinematicDoorSystem" src="https://github.com/user-attachments/assets/31f8307c-bd4e-4daf-9c7c-4bdca9f7ce7d" />
@@ -54,19 +55,18 @@ Can be implemented with a data saving system; allowing players to automatically 
 Allow players to remove existing hats and accessories, which can disrupt the overall character editing.
 Support cross platform implementation and usage, on large scale.
 
-**** <iframe width="560" height="315" src="https://www.youtube.com/embed/_zOCNyF0Df0?si=oF3EaPnUEqrSTsWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+DEMO [![Video](https://img.youtube.com/vi/_zOCNyF0Df0/0.jpg)](https://youtu.be/_zOCNyF0Df0)
 
 📌 Periodic Data Saving
 Automatically saves player data at intervals and handles coin accumulation. Leaving the experience triggers an automatic data saving, to avoid crash-related or intentional data loss for players. Can be bound to other mechanics to create a progression-based game or simulator.
 
-****: <iframe width="560" height="315" src="https://www.youtube.com/embed/AVknx4BaAqk?si=K3tXDMcRjH8MMiWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+DEMO [![Video](https://img.youtube.com/vi/AVknx4BaAqk/0.jpg)](https://youtu.be/AVknx4BaAqk)
 
 📌 Rank & Device Scanning
 Detects player device type, input method, and group rank for adaptive gameplay.
 Connects automatically to a debounce system, and cross-platform system which changes on-screen information and buttons.
 
-****: <iframe width="560" height="315" src="https://www.youtube.com/embed/FgAG7cHb20M?si=CVlHA18n4ZH1Pu66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+DEMO [![Video](https://img.youtube.com/vi/FgAG7cHb20M/0.jpg)](https://youtu.be/FgAG7cHb20M)
 
 **🧩 Engineer-level Systems**
 (These are highly technical systems that nstrate deeper engineering skill.)
@@ -100,10 +100,10 @@ AI updates paths dynamically based on environment changes.
 **Debug Tools**  
 Toggleable grid + path visualization for development.
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/SQOTcHuuuJE?si=foQbOpGQFs3HuAFf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>****
+DEMO [![Video](https://img.youtube.com/vi/SQOTcHuuuJE/0.jpg)](https://youtu.be/SQOTcHuuuJE)
 
 😊 **Alternative using roblox's built-in pathfinding: (Runs faster, as it's otpimized using C++)
-: <iframe width="560" height="315" src="https://www.youtube.com/embed/UQ8wNuy6Cr0?si=3LiD5z_o2n2OII-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+DEMO [![Video](https://img.youtube.com/vi/UQ8wNuy6Cr0/0.jpg)](https://youtu.be/UQ8wNuy6Cr0)
 
 📌 Binary Placement System
 <img width="1900" height="400" alt="placementSystem" src="https://github.com/user-attachments/assets/467fbbf0-42e1-49e8-9896-2d6a5f42d28e" />
