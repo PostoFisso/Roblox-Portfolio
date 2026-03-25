@@ -1,5 +1,4 @@
 🧠 **Scripting Portfolio**
-<img width="540" height="403" alt="image" src="https://github.com/user-attachments/assets/73f5c049-32d0-405c-a0ff-2b50f69e59a8" />
 Below an overview of my roblox scripting skills and completed projects.
 
 <img width="1900" height="400" alt="scriptingBannerShowcase" src="https://github.com/user-attachments/assets/a5c50907-7c94-4d32-9c22-63a5d07bcba3" />
@@ -37,7 +36,7 @@ Non‑criminal actions (bumping, aiming, etc.) can trigger NPC reactions.
 📌 Cinematic Door Teleporter
 <img width="1900" height="400" alt="cinematicDoorSystem" src="https://github.com/user-attachments/assets/31f8307c-bd4e-4daf-9c7c-4bdca9f7ce7d" />
 
-A server-side validated cinematic door system, using tween service instead of roblox's constraints, which can cause malfunctions. This prototype allows the user of a plot system to accept or deny any visits, while keeping exploiters out of bounds. It teleports the user to a specific plot, correcting rotation, camera FOV and character humanoid characteristics in real-time.
+A server-side validated cinematic door system, using tween service instead of roblox's constraints, which can cause malfunctions. This prototype allows the user of a plot system to accept or deny any visits, while keeping exploiters out of bounds. It teleports the user to a specific plot, correcting rotation, camera FOV and character humanoid characteristics in real-time. Uses camera transitions, animations, event‑driven triggers, and smooth cinematic sequences.
 
 The door can also use group-level  verification, to deny or approve teleporting any door, or open the door in the first place.
 
@@ -90,11 +89,6 @@ https://youtu.be/R8NCFrKhjos
 
 📌 Binary Placement System
 <img width="1900" height="400" alt="placementSystem" src="https://github.com/user-attachments/assets/467fbbf0-42e1-49e8-9896-2d6a5f42d28e" />
+
 A placement system with binary save/load, reversible encoding, and optimized memory footprint.
 Data is loaded directly upon joining the game, and supports a user-friendly player slots system to save, overwrite, or delete any slot-data associated with the player's experience. Loads default furniture and plots structures for new players, allowing to change plot aesthethics while offerig a generous plot size, inside and an extra plot outside the plot itself. Can be combined with a textures library to change furniture, but not walls or structural aspects to avoid players breaking plots.
-
-📌 Cinematic Door System
-<img width="1900" height="400" alt="cinematicDoorSystem" src="https://github.com/user-attachments/assets/94404d58-bec5-4359-87f0-9327a1cf2399" />
-
-Doors with camera transitions, animations, event‑driven triggers, and smooth cinematic sequences.
-
