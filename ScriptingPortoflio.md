@@ -1,5 +1,8 @@
 🧠 **Scripting Portfolio**
 Below an overview of my roblox scripting skills and completed projects.
+Below my youtube channel, showcasing small (s) of my projects ad commissions: (The final products are more advanced than shown)
+
+**https://www.youtube.com/@sqldevv**
 
 <img width="1900" height="400" alt="scriptingBannerShowcase" src="https://github.com/user-attachments/assets/a5c50907-7c94-4d32-9c22-63a5d07bcba3" />
 
@@ -31,7 +34,7 @@ Breaking laws triggers search mode and de‑escalation;
 “Disrespect Mechanic” (Some actions can trigger notoriety);
 Non‑criminal actions (bumping, aiming, etc.) can trigger NPC reactions.
 
-**Demo** https://youtu.be/R8NCFrKhjos
+**** <iframe width="560" height="315" src="https://www.youtube.com/embed/R8NCFrKhjos?si=eMb9zsLj93OZLXe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📌 Cinematic Door Teleporter
 <img width="1900" height="400" alt="cinematicDoorSystem" src="https://github.com/user-attachments/assets/31f8307c-bd4e-4daf-9c7c-4bdca9f7ce7d" />
@@ -40,27 +43,40 @@ A server-side validated cinematic door system, using tween service instead of ro
 
 The door can also use group-level  verification, to deny or approve teleporting any door, or open the door in the first place.
 
+📌 Avatar Editor (Outdated; now using a custom avatar and a better module architecture)
+<img width="1900" height="400" alt="avatarEditor" src="https://github.com/user-attachments/assets/0564efd1-2585-42d4-a149-93ef87f5eed0" />
+
+**Features**
+Proximity prompt based; (Now using an advanced custom proximity prompt);
+Filters player's state and if allowed, teleports the player to a special room to change appearance, and clothing;
+The new version allows changing the body colors using a color palette. (Important for some players);
+Can be implemented with a data saving system; allowing players to automatically load selected characters, without the requirement to wear the same accessories every time;
+Allow players to remove existing hats and accessories, which can disrupt the overall character editing.
+Support cross platform implementation and usage, on large scale.
+
+**** <iframe width="560" height="315" src="https://www.youtube.com/embed/_zOCNyF0Df0?si=oF3EaPnUEqrSTsWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 📌 Periodic Data Saving
 Automatically saves player data at intervals and handles coin accumulation. Leaving the experience triggers an automatic data saving, to avoid crash-related or intentional data loss for players. Can be bound to other mechanics to create a progression-based game or simulator.
 
-**Demo**: https://youtu.be/AVknx4BaAqk
+****: <iframe width="560" height="315" src="https://www.youtube.com/embed/AVknx4BaAqk?si=K3tXDMcRjH8MMiWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📌 Rank & Device Scanning
 Detects player device type, input method, and group rank for adaptive gameplay.
 Connects automatically to a debounce system, and cross-platform system which changes on-screen information and buttons.
 
-**Demo**: https://youtu.be/FgAG7cHb20M
+****: <iframe width="560" height="315" src="https://www.youtube.com/embed/FgAG7cHb20M?si=CVlHA18n4ZH1Pu66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 **🧩 Engineer-level Systems**
-(These are highly technical systems that demonstrate deeper engineering skill.)
+(These are highly technical systems that nstrate deeper engineering skill.)
 Not for sale of distribution.
 
 <img width="1900" height="400" alt="systemsEngineering" src="https://github.com/user-attachments/assets/7539b27c-2320-4fe9-9414-fba87169c871" />
 
 📌 Abstract Syntax Tree (AST) Script Flow Visualizer
 A system that parsed Luau code into an AST and visualized script flow as a chart.
-Discontinued, but demonstrates compiler‑level understanding.
+Discontinued, but nstrates compiler‑level understanding.
 
 📌 Custom ML Pathfinding System
 A fully custom pathfinding system built from scratch in Luau, replacing Roblox’s PathfindingService for full control over AI behavior.
@@ -84,8 +100,10 @@ AI updates paths dynamically based on environment changes.
 **Debug Tools**  
 Toggleable grid + path visualization for development.
 
-Demo Video
-https://youtu.be/R8NCFrKhjos
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/SQOTcHuuuJE?si=foQbOpGQFs3HuAFf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>****
+
+😊 **Alternative using roblox's built-in pathfinding: (Runs faster, as it's otpimized using C++)
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/UQ8wNuy6Cr0?si=3LiD5z_o2n2OII-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📌 Binary Placement System
 <img width="1900" height="400" alt="placementSystem" src="https://github.com/user-attachments/assets/467fbbf0-42e1-49e8-9896-2d6a5f42d28e" />
