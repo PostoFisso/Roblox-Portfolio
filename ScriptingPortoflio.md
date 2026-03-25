@@ -55,6 +55,7 @@ Video: https://youtu.be/FgAG7cHb20M
 
 **🧩 Engineer-level Systems**
 (These are highly technical systems that demonstrate deeper engineering skill.)
+<img width="1900" height="400" alt="systemsEngineering" src="https://github.com/user-attachments/assets/7539b27c-2320-4fe9-9414-fba87169c871" />
 
 📌 Abstract Syntax Tree (AST) Script Flow Visualizer
 A system that parsed Luau code into an AST and visualized script flow as a chart.
