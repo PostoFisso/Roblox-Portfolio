@@ -1,15 +1,27 @@
 🧠 **Scripting Portfolio**
-Below an overview of my roblox scripting skills and completed projects.
-Below my youtube channel, showcasing small (s) of my projects ad commissions: (The final products are more advanced than shown)
 
-**https://www.youtube.com/@sqldevv**
+Below an overview of my roblox scripting skills and completed projects.
+I link also my youtube channel for reference, showcasing small prototypes of my projects ad commissions (The final products are more advanced and bug-fixed than shown)
+
+Currently making some complex open-source scripts that can be available for anyone on my main profile.
+I post mostly anti-exploits, reverse-engineering and administration tools; as they allign with my computer science objectives.
+
+
+[![WhoAmI](https://github.com/user-attachments/assets/<img width="472" height="189" alt="image" src="https://github.com/user-attachments/assets/cda321d7-bed9-4e6d-b7d0-afe25c15797e" />)](https://www.youtube.com/@sqldevv)
+
 
 <img width="1900" height="400" alt="scriptingBannerShowcase" src="https://github.com/user-attachments/assets/a5c50907-7c94-4d32-9c22-63a5d07bcba3" />
 
 📌 Inventory System
 <img width="1900" height="400" alt="inventorySystem" src="https://github.com/user-attachments/assets/e19de68e-8190-4091-b39f-fe17ed1170c9" />
+
 A modular and scalable inventory system designed for clean integration with other game systems.
 Supports item metadata, stack logic, UI binding, and server‑safe replication. Supports cross-platform, and scales each inventory slot dynamically to ensure icons and frames to fit, based on the device in sure; mobile or console regardless. Works in strict connection with data-storage capabilities, to load, or retrieve any data from the player. This also applies to leaving or joining randomly, data is saved within a cache, then released to optimize memory usage.
+
+**The new version supports xross platform, and uses a custom grip system; changing how player interacts with existing tools**
+Older demo example:
+
+[![Demo](https://github.com/user-attachments/assets/<img width="1280" height="720" alt="toolsRarityClickDemo" src="https://github.com/user-attachments/assets/0998ee26-4a4b-4c1d-9f6e-3c8d6436e6dd" />)](https://youtu.be/InRCrSKMKw8?si=J1M-3scHaZta9bab)
 
 
 
