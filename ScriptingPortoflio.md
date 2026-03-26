@@ -56,18 +56,17 @@ Can be implemented with a data saving system; allowing players to automatically 
 Allow players to remove existing hats and accessories, which can disrupt the overall character editing.
 Support cross platform implementation and usage, on large scale.
 
-DEMO [![Video](https://img.youtube.com/vi/_zOCNyF0Df0/0.jpg)](https://youtu.be/_zOCNyF0Df0)
-
+[![Demo](https://github.com/user-attachments/assets/<img width="1280" height="720" alt="avatarEditorClickDemo" src="https://github.com/user-attachments/assets/0186499c-6ca0-48b7-8952-5e8060baf63d" />)](https://youtu.be/VIDEO_ID)
 📌 Periodic Data Saving
 Automatically saves player data at intervals and handles coin accumulation. Leaving the experience triggers an automatic data saving, to avoid crash-related or intentional data loss for players. Can be bound to other mechanics to create a progression-based game or simulator.
 
-DEMO [![Video](https://img.youtube.com/vi/AVknx4BaAqk/0.jpg)](https://youtu.be/AVknx4BaAqk)
+[![Demo](https://github.com/user-attachments/assets/)<img width="1280" height="720" alt="New ProjecperiodicDataSavingClickDemot" src="https://github.com/user-attachments/assets/b9ef773d-8991-4fbc-aea4-502eb17c3383" />](https://youtu.be/VIDEO_ID)
 
 📌 Rank & Device Scanning
 Detects player device type, input method, and group rank for adaptive gameplay.
 Connects automatically to a debounce system, and cross-platform system which changes on-screen information and buttons.
 
-DEMO [![Video](https://img.youtube.com/vi/FgAG7cHb20M/0.jpg)](https://youtu.be/FgAG7cHb20M)
+[![Demo](https://github.com/user-attachments/assets/)<img width="1280" height="720" alt="rankAndDeviceScanningClickDemo" src="https://github.com/user-attachments/assets/09043f22-f28c-440b-9025-121e01fab87d" />](https://youtu.be/VIDEO_ID)
 
 **🧩 Engineer-level Systems**
 (These are highly technical systems that nstrate deeper engineering skill.)
@@ -101,10 +100,12 @@ AI updates paths dynamically based on environment changes.
 **Debug Tools**  
 Toggleable grid + path visualization for development.
 
-DEMO [![Video](https://img.youtube.com/vi/SQOTcHuuuJE/0.jpg)](https://youtu.be/SQOTcHuuuJE)
+[![Demo](https://github.com/user-attachments/assets/)<img width="1280" height="720" alt="mlPathfindingClickDemo" src="https://github.com/user-attachments/assets/cae4265e-d32f-4ad5-a760-4edbe2655814" />](https://youtu.be/VIDEO_ID)
+
 
 😊 **Alternative using roblox's built-in pathfinding: (Runs faster, as it's otpimized using C++)
-DEMO [![Video](https://img.youtube.com/vi/UQ8wNuy6Cr0/0.jpg)](https://youtu.be/UQ8wNuy6Cr0)
+[![Demo](https://github.com/user-attachments/assets/)<img width="1280" height="720" alt="pathfindingServiceClickDemo" src="https://github.com/user-attachments/assets/31011a5a-1dcc-413d-b0e8-c0ea3a2e385f" />](https://youtu.be/VIDEO_ID)
+
 
 📌 Binary Placement System
 <img width="1900" height="400" alt="placementSystem" src="https://github.com/user-attachments/assets/467fbbf0-42e1-49e8-9896-2d6a5f42d28e" />
