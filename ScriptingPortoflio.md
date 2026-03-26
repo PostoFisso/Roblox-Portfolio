@@ -7,7 +7,7 @@ Currently making some complex open-source scripts that can be available for anyo
 I post mostly anti-exploits, reverse-engineering and administration tools; as they allign with my computer science objectives.
 
 
-[![WhoAmI](https://github.com/user-attachments/assets/<img width="472" height="189" alt="image" src="https://github.com/user-attachments/assets/cda321d7-bed9-4e6d-b7d0-afe25c15797e" />)](https://www.youtube.com/@sqldevv)
+[![WhoAmI](https://github.com/user-attachments/assets/cda321d7-bed9-4e6d-b7d0-afe25c15797e)](https://www.youtube.com/@sqldevv)
 
 
 <img width="1900" height="400" alt="scriptingBannerShowcase" src="https://github.com/user-attachments/assets/a5c50907-7c94-4d32-9c22-63a5d07bcba3" />
