@@ -34,7 +34,8 @@ Breaking laws triggers search mode and de‑escalation;
 “Disrespect Mechanic” (Some actions can trigger notoriety);
 Non‑criminal actions (bumping, aiming, etc.) can trigger NPC reactions.
 
-[![Demo](https://github.com/user-attachments/assets/<img width="1280" height="720" alt="thumbnailClickPathfinding" src="https://github.com/user-attachments/assets/50049be6-6f7e-4b12-b30d-f8851807090f" />)](https://youtu.be/VIDEO_ID)
+[![Demo](https://github.com/user-attachments/assets/<img width="1280" height="720" alt="thumbnailClickPathfinding" src="https://github.com/user-attachments/assets/c39f3a9a-dfb6-4006-bbe1-e3047354638e" />
+)](https://youtu.be/VIDEO_ID)
 
 
 📌 Cinematic Door Teleporter
