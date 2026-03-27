@@ -7,10 +7,12 @@ Currently working on: 🎮
 
 📌 A Cake Game
 A roblox videogame based on a cooperative real-time game between players on multiple platforms.
+Supposed to compete with double A development groups. Coming 2026-2027.
 <img width="643" height="479" alt="Screenshot 2026-03-17 170313" src="https://github.com/user-attachments/assets/6dd30429-6be0-4dc5-a610-536837ecc863" />
 
 ### 📌 A "The Rake" inspired horror game.
 A roblox videogame based on a horror creepypasta.
+Supposed to be a viral development test. Coming 2026.
 <img width="1155" height="859" alt="Screenshot 2026-03-23 161223" src="https://github.com/user-attachments/assets/a06650a3-3eed-4111-a282-e34981e69650" />
 
 
